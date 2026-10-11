@@ -1,3 +1,5 @@
+# Hi there👋
+
 I am an Engineering Physics Master's student at Instituto Superior Técnico with a Minor in Artificial Intelligence. My interest is to make an intersection between AI optimizations and real-world physics systems, like sensor designs and semiconductors technology.
 
 ## 🚀 About Me
@@ -13,5 +15,5 @@ I am an Engineering Physics Master's student at Instituto Superior Técnico with
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xOagge?theme=dark&font=baloo&ext=activity)
 
 ## 📫 Let's Connect
-* **LinkedIn:** [José Machado](https://linkedin.com/in/your-profile-link)
+* **LinkedIn:** [José Machado](https://www.linkedin.com/in/jos%C3%A9-machado-2a58712b0/)
 * **Email:** jose.gfa.machado@gmail.com
