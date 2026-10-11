@@ -12,7 +12,7 @@ I am an Engineering Physics Master's student at Instituto Superior Técnico with
 * **Specialties:** Numerical Modeling, Physics Simulation, Machine Learning, Data Analysis, MBSE
 
 ## 📊 LeetCode Performance
-![LeetCode Stats](https://leetcard.jacoblin.cool/xOagge?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/xOagge?theme=dark&font=baloo&ext=heatmap)
 
 ## 📫 Let's Connect
 * **LinkedIn:** [José Machado](https://www.linkedin.com/in/jos%C3%A9-machado-2a58712b0/)
